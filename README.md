@@ -1,2 +1,5 @@
 # sentiment-analysis-performance-study
-Sentiment Analysis project for MI201. Comparison of classical ML models, MLP, BERT embeddings, LLMs and optional LoRA fine-tuning.
+Comparative analysis of different ML approaches for sentiment analysis:
+1. Classical ML models
+2. BERT embeddings + MLP
+3. LLM-based classification
